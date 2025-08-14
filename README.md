@@ -4,6 +4,11 @@
 ## 📄 Project Overview  
 This project delivers a full end-to-end analysis of regional coffee shop sales, leveraging **MySQL** for data cleaning, transformation, and KPI computation, and **Power BI** for interactive data visualization. The analysis focuses on uncovering sales patterns, customer behavior, and performance trends across locations, product categories, and time periods.
 
+## 📄 Read the Full Project Article on LinkedIn  
+[**Regional Coffee Shop Sales Analysis — MySQL + Power BI**](https://www.linkedin.com/pulse/regional-coffee-shop-sales-analysis-mysql-power-bi-daniel-groza-qfmae/)  
+In this article, I walk through the complete analytics process for my final Sales Sector portfolio project — from SQL data preparation to building an interactive Power BI dashboard — before transitioning into my Financial & Banking analytics projects.
+
+
 ---
 
 ## 🛠 Tools & Technologies  
